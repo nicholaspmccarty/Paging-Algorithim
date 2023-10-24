@@ -1,4 +1,6 @@
 Paging Algorithm
+
+
 This is a simple implementation of a paging algorithm in C++ by Nicholas McCarty for CSE 381. The code simulates the behavior of a paging system and includes various test cases to evaluate different scenarios.
 
 
