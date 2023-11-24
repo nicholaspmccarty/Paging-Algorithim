@@ -4,7 +4,7 @@ Paging Algorithm
 This is a simple implementation of a paging algorithm in C++. The code simulates the behavior of a paging system and includes various test cases to evaluate different scenarios.
 
 
-Features
+Features:
 Simulates a paging algorithm with FIFO and working set policies.
 Generates different types of test data, including uniform random data, normal distribution data, and worst-case data.
 Evaluates and prints the results of the paging algorithm for various test cases.
